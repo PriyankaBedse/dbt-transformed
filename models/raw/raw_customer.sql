@@ -3,4 +3,4 @@
         materialized='table'
     )
 }}
-select * from RAW.GLOBALMART.CUSTOMER
+select * from TERRAFORM_DESTINATION_DATABASE.TERRAFORM_DESTINATION_DATABASE.CUSTOMER
