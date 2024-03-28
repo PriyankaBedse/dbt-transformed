@@ -3,4 +3,4 @@
         materialized='table'
     )
 }}
-select * from DESTINATION_DATABASE.SOURCE_SCHEMA.TERRAFORM_TABLE
+select * from DESTINATION_DATABASE.SOURCE_SCHEMA.ORDERS
